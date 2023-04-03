@@ -1,4 +1,4 @@
-# Griffiths & Jenkins (2022)
+# Griffiths & Jenkins (2023)
 Matlab code to recreate the simulation study in "An estimator for the recombination rate from a continuously observed diffusion of haplotype frequencies".
 
 ## Citation
